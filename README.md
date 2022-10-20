@@ -32,7 +32,7 @@ Building ffmpeg v4.3.1, the table below summarizes the runs compiling alone and 
 | RPi4+mercury | 356.6 ± 0.1 | 212.3
 
 ## Download a pre-built package
-Arch ARM supplies pre-built toolchains for armv5, armv6h, armv7h and armv8 (aarch64) and the [distccd-alarm](https://aur.archlinux.org/packages/distccd-alarm-armv7h/) package in the [AUR](https://aur.archlinux.org/) supplies these plus systemd service units.  Download and install these on your x86_64 volunteer.
+Arch ARM supplies pre-built toolchains for armv7h and armv8 (aarch64) and the [distccd-alarm](https://aur.archlinux.org/packages/distccd-alarm-armv7h/) package in the [AUR](https://aur.archlinux.org/) supplies these plus systemd service units.  Download and install these on your x86_64 volunteer.
 
 ## Links
 * https://archlinuxarm.org/wiki/Distcc_Cross-Compiling
